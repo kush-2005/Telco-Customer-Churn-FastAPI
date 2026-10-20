@@ -344,5 +344,3 @@ This project is intended for educational and portfolio purposes.
 Built with love by **KUSH**
 
 </div>
-
-> Based on [Telco-Customer-Churn-FastAPI](https://github.com/priyanka297-tech/Telco-Customer-Churn-FastAPI) by the original author.
